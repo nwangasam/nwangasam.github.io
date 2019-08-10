@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>NANO Screen Protector - OCE</title>
+        <link rel="stylesheet" href="./styles.css">
+        <link href="https://fonts.googleapis.com/css?family=PT+Sans&display=swap" rel="stylesheet">
+    </head>
+    <body>
+   <div class="init" id="init"><h1>
+        O.C.E ENTERPRISE &copy; 2019
+    </h1>
+    <p><b>...LOADING PLEASE WAIT</b></p>
+    </div>
+        <main class="content">
+            <h1>INRODUCING THE ALL NEW <span class="title">NANO SCREEN LIQUID PROTECTOR</span></h1>
+          <img class="img-mg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTl_Bc331L7mzSjRIL3aYtv3BxhmgE8dfI7gH8wRKI213bf3sVx" alt="nano screen pro">
+            
+<div class="line">           
+            <h2>Protect your phone screen without Bulky Glass Screen Guards</h2>
+            <p class="center">Everybody's phone slips off at one time and the screen shatters. 
+And no, you don't even want that; not for your phone!
+<br />
+<br />
+    <b>NANO Screen Protector is here for you!!</b>
+</p>
+    <div class="reasons">
+        <h2>Here's Why you need this wonder product:</h2>
+        <ol>
+            <li>Increases your phone screen to 9H Hardness(that of a tempered glass)</li>
+            <li>Protects the screen from scratches (even from sharp knives)</li>
+            <li>Your screen can now take serious impacts without smashing </li>
+            <li>Makes the screen Waterproof</li>
+            <li>Protects the screen from Dust and Bacteria</li>
+            <li>No more messy prints of your fingers on the screen</li>
+            <li>Your phone screen is much smoother and highly responsive🤩</li>
+        </ol>
+    </div>
+    <h2>Thanks to NANO Screen Protector! 
+Now you don't have to worry about accidentally smashing your phone screen!
+<img src="https://i.gifer.com/7QAy.gif" alt="akunamatata">  
+    </h2>
+<h2>HERE IS NANO PROTECTION IN ACTION👇👇</h2>
+    <div class="advert">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Lf2lzPDuuk0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2gA99IzIh3w?start=22" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    
+    <div class="durability">
+        <img width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfgSrHETSXqOyD6u3upM3QucgwgWzYklpE4df5BWhHybKg7vC8">
+        <h2 class="mg">DURABILITY: 2 YRS✌</h2>
+        <p><strong>The liquid screen protector</strong><br /> literally becomes part of your original screen and will only slowly wear off over time - depending on how you use your <br /> device. The coating will stay up to 2 years but to ensure <br /> ultimate protection <em>we recommend our customers to reapply after 1 year.</em></p>
+    </div>
+    <div class="order">
+        <h2>GET YOURS TODAY!</h2>
+        <div class="get">
+            <img src="https://media.tenor.com/images/267122b38ed9e140b94a72c40b27ec4a/tenor.gif" alt="get yours">
+        </div>
+        <p>Place an order in the next 48hrs to enjoy discounted rates!</p>
+        <ul>
+            <li>
+                <h3>RETAIL PRICE</h3>
+                <b  class="strike">&#8358;5000 ✖</b>
+                <h4>&#8358;1000 ✔</h4>
+                <small>Payment on Installment (for retail buyers)</small>
+            </li>
+            <li>
+                <h3>WHOLESALE PRICE(20MOQ)</h3>
+                <b  class="strike">&#8358;3500 ✖</b>
+                <h4>&#8358;850 ✔</h4>
+            </li>
+        </ul>
+    </div>
+    <div class="buy">
+    <small><b>Click on the BUY NOW button below to order NOW!</b></small>
+        <img class="opac" src="https://media.tenor.com/images/2b6c8300675e3eea8f5a0083e2d56829/tenor.gif" alt="what-are-u-waiting-for">
+        <img src="https://www.fg-a.com/buttons-animated/buy-now-animated-blue.gif" alt="buyNow">
+        </div>
+    </div>
+        </main>
+        <footer class="footer">
+            <small>Copyright &copy; 2019
+            <p>OCE ENTERPRISE</p>
+                <p> 080 750 750 32  </p>
+            </small>
+            <br /> ❤ with love.
+        </footer>
+
+        <!-- JAVASCRIPT GOES HERE!-->
+        <script>
+            const i = document.getElementById("init");
+    
+            function init() {
+            setTimeout(() => {
+                //    i.classList.remove("init");
+                    i.classList.add("init-no");
+                }, 1500)
+            }
+            
+        init();
+        </script>
+
+    </body>
+</html>
